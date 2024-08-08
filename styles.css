@@ -8,7 +8,7 @@ body {
 
 div.introduction {
   display: block;
-  margin-left:160px;
+  margin: auto;
   max-width: 600px;
   padding:5px;
   width: 100%;
@@ -17,8 +17,7 @@ div.introduction {
 
 div.table-title {
   display: block;
-  /*margin: auto; */
-  margin-left:160px;
+  margin: auto;
   max-width: 600px;
   padding:5px;
   width: 100%;
